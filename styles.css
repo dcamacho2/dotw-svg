@@ -1,0 +1,59 @@
+body {
+  background-color: #E9EBEE;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  font-size: 1em;
+  text-align: center;
+  margin: auto;
+  width: 700px;
+}
+
+svg.sports {
+  font-size: 5em;
+  fill: black;
+  width: 1em;
+  height: 1em;
+}
+
+.icons {
+  margin: 0 auto;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  float: left;
+  width: 90px;
+}
+
+
+#baseball:hover{
+  fill: blue;
+}
+
+#basketball:hover{
+  fill: #F3521C;
+}
+
+#football:hover {
+  fill: #742F2A;
+}
+
+#soccer:hover {
+  fill: grey;
+}
+
+#xgames:hover {
+  fill: red;
+}
+
+#golf:hover {
+  fill:green;
+}
+
+#esports:hover {
+  fill:purple;
+}
